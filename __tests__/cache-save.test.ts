@@ -13,7 +13,7 @@ describe('run', () => {
     '2d0ff7f46b0e120e3d3294db65768b474934242637b9899b873e6283dfd16d7c';
   const poetryLockHash =
     '571bf984f8d210e6a97f854e479fdd4a2b5af67b5fdac109ec337a0ea16e7836';
-  const uvLockHash = 'TODO'; // TODO: what should be the correct value?
+  const uvLockHash = 'efe9f18aef431b3f1dbe13bee790b00095e74fb19aa5ced5ace96d063f03258d';
 
   // core spy
   let infoSpy: jest.SpyInstance;
